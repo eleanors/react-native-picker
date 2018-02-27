@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Users\\s\\Documents\\jxtpilipa\\corpapp\\node_modules\\react-native-picker\\android\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "E:\\Users\\s\\Documents\\jxtpilipa\\corpapp\\node_modules\\react-native-picker\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.42.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\QXTeachern\\node_modules\\react-native-picker\\android\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "E:\\QXTeachern\\node_modules\\react-native-picker\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.4\\res\\xml\\preferences.xml"
+    }
+]
